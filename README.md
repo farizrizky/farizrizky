@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farizrizky 
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning php, codeigniter, laravel
-- 💞️ I’m looking to collaborate on myself
+- 💞️ I’m looking to collaborate on codeigniter
 - 📫 How to reach me farizrizky0@gmail.com
 
 <!---
